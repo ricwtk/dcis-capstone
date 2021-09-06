@@ -1,0 +1,20 @@
+site_name: Capstone project
+site_url: https://ricwtk.github.io/dcis-capstone
+docs_dir: src
+site_dir: docs
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: teal
+    accent: teal
+  features:
+    - toc.integrate
+extra_css:
+  - stylesheets/extra.css
