@@ -11,7 +11,7 @@
 This is a general timeline, all dates are subject to change. The announcement from the coordinator should always be taken at higher priority than this.
 
 <div class="timeline">
-    <div class="container right title">
+    <div class="container left title">
         <div class="content">Capstone 1</div>
     </div>
     <div class="container right">
@@ -22,7 +22,7 @@ This is a general timeline, all dates are subject to change. The announcement fr
         <div class="date">Week 13</div>
         <div class="content">Submission of planning document + activity log</div>
     </div>
-    <div class="container right title">
+    <div class="container left title">
         <div class="content">Capstone 2</div>
     </div>
     <div class="container right">

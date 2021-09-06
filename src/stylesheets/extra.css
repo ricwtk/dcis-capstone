@@ -67,7 +67,14 @@
   border-radius: 500px 500px 500px 500px;
   color: var(--md-primary-fg-color);
   border-color: var(--md-primary-fg-color);
-  border-width: 5px;
+  border-width: 1px;
+  border-style: solid;
+  text-align: right;
+  /* box-shadow: 0 0 2px 2px var(--md-primary-fg-color); */
+}
+
+.container.title.right .content {
+  text-align: left;
 }
 
 .container.title::before {
