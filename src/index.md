@@ -19,7 +19,7 @@ This is a general timeline, all dates are subject to change. The announcement fr
         <div class="content">Decision on topic</div>
     </div>
     <div class="container right">
-        <div class="date">Week 13</div>
+        <div class="date">Week 14</div>
         <div class="content">Submission of planning document + activity log</div>
     </div>
     <div class="container left title">
