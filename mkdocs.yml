@@ -21,3 +21,5 @@ extra_css:
 nav:
   - index.md
   - cp1.md
+  - cp2.md
+  - formatting.md

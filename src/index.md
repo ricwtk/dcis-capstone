@@ -1,7 +1,7 @@
 # Capstone project
 
 !!! note ""
-    updated on 6 September 2021
+    updated on 17 November 2022
 
 !!! attention "Disclaimer"
     This is not the official guidelines of capstone project from the coordinator or the department. This is the guideline provided by me, meant for my supervisees. 
