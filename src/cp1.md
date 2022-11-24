@@ -9,6 +9,13 @@
 
 ## Planning Document
 
+### Pre-content
+
+- Cover page
+- Abstract (One page summary of your report content)
+- Table of content
+
+### Content
 1. Introduction
     - Motivation / Background of the project
     - Problem statement
@@ -26,3 +33,8 @@
 4. Work plan
     - Gantt chart (From beginning of CP1 to end of CP2)
     - description of the tasks in your Gantt chart
+
+### Post-content
+
+- Reference
+- Appendices (optional)
